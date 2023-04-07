@@ -1,0 +1,10 @@
+Per resettare il decoder Sky HD, segui questi passaggi:
+
+Accendi il decoder Sky HD e assicurati che sia connesso alla TV.
+Tieni premuto il pulsante "Standby" sul pannello frontale del decoder per circa 5 secondi.
+Attendi che i led sulla parte anteriore del decoder lampeggino.
+Rilascia il pulsante "Standby".
+Il decoder si spegnerà e si riaccenderà automaticamente. Attendere il caricamento completo del sistema.
+Il processo di reset dovrebbe richiedere circa un minuto. Al termine del processo, dovrai configurare nuovamente il decoder inserendo i dati del tuo account Sky e procedere con la configurazione iniziale.
+
+Se il reset del decoder non risolve il problema che stai riscontrando, potrebbe essere necessario contattare l'assistenza clienti Sky per ulteriori supporti.
